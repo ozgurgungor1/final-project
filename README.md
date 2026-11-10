@@ -8,11 +8,7 @@
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)]()
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)]()
 
----
 
-> ⚠️ **Not:** Bu README projenin hedefini ve yol haritasını anlatır. Henüz tamamlanmamış özellikler tamamlandı olarak sunulmamalıdır.
-
----
 
 ## 📑 İçindekiler
 
